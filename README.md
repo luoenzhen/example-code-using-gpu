@@ -1,4 +1,4 @@
-# Example Code to Use GPU in Python TensorFlow Running in CoESRA Virtual Desktop
+# Example Code on Using GPU on CoESRA Virtual Desktop
 ### Environment
 CoESRA JupyterLab
 ### [CoESRA](https://coesra.tern.org.au)
